@@ -339,4 +339,7 @@
     .main-menu__list--lvl2 {background:#d5af86}
     .main-menu__item-sep--lvl2 {background:#fff; height:1px; opacity:0.3; margin:0 15px}
     .main-menu__link--lvl2 {font-weight:normal; text-transform:none}
+    .main-menu__link--lvl2:hover, .main-menu__link--lvl2:active {color:#fff; background:rgb(239, 205, 168)}
+    .main-menu__item--parent:first-child .main-menu__link--lvl2 {padding-left:56px; position:relative}
+    .main-menu__item--parent:first-child .main-menu__link--lvl2 span {position:absolute; left:20px; top:16px; margin:0}
 }
