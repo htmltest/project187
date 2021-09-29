@@ -312,7 +312,7 @@
     .blog-detail-info-photo img {width:100%}
 }
 
-.blog-detail-back {margin:44px 0 -40px 0; font-weight:500; font-size:22px; line-height:28px}
+.blog-detail-back {margin:44px 0; font-weight:500; font-size:22px; line-height:28px}
 .blog-detail-back a {text-decoration:none}
 .blog-detail-back a span {border-bottom:2px solid rgb(14, 33, 73); transition:border-color 0.2s}
 .blog-detail-back a:hover span {border-color:transparent}
